@@ -1,4 +1,4 @@
 # gitrespositort-1
-this is my first goit respository
+this is my first git respository
 <br>
 author-MaidaAwais
